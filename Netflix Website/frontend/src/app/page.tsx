@@ -12,23 +12,23 @@ const MOVIE_ROWS = [
   {
     title: 'Malayalam Blockbusters',
     movies: [
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/BVgNoVwsb6Y/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=BVgNoVwsb6Y',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/scRQR-FRfIo/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=scRQR-FRfIo',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/D76XBkNoeac/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=D76XBkNoeac',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/H-j9T0oiC6M/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=H-j9T0oiC6M',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/hwl9XluBtJY/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=hwl9XluBtJY',
       },
@@ -37,23 +37,23 @@ const MOVIE_ROWS = [
   {
     title: 'South India Songs',
     movies: [
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/sAzlWScHTc4/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=sAzlWScHTc4',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/5vsOv_bcnhs/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=5vsOv_bcnhs',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/ffcOcghuYFM/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=ffcOcghuYFM',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/rwA4N8pj1XA/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=rwA4N8pj1XA',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/YR12Z8f1Dh8/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=YR12Z8f1Dh8',
       },
@@ -62,23 +62,23 @@ const MOVIE_ROWS = [
   {
     title: 'Indian Biopics Movies',
     movies: [
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/gzUu-FJ7s-Y/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=gzUu-FJ7s-Y',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/reuPpCS_GcQ/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=reuPpCS_GcQ',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/FLd_ZeEe9pc/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=FLd_ZeEe9pc',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/QgxvDORKzec/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=QgxvDORKzec',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/L1NfeFLdwqY/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=L1NfeFLdwqY',
       },
@@ -87,23 +87,23 @@ const MOVIE_ROWS = [
   {
     title: 'Kannada Short Movies',
     movies: [
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/Y8ZApXcnhy4/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=Y8ZApXcnhy4',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/TMY1g8pAktk/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=TMY1g8pAktk',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/RVMnT4nq9NU/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=RVMnT4nq9NU',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/Ypt7g7fOvWA/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=Ypt7g7fOvWA',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/1M7iX-XWRT8/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=1M7iX-XWRT8',
       },
@@ -112,23 +112,23 @@ const MOVIE_ROWS = [
   {
     title: 'Kannada Songs',
     movies: [
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/palMj0iq-3g/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=palMj0iq-3g',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/6FTnjjxmVTE/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=6FTnjjxmVTE',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/mmyWqBkX-Bw/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=mmyWqBkX-Bw',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/O4SHoP6qVuc/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=O4SHoP6qVuc',
       },
-      {
+      { title: "...",
         imageUrl: 'https://img.youtube.com/vi/FRdC3FDIrX0/maxresdefault.jpg',
         videoUrl: 'https://www.youtube.com/watch?v=FRdC3FDIrX0',
       },
